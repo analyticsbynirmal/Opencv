@@ -247,6 +247,5 @@ Contributions are welcome! To contribute:
 
 ## Author
 
-**<STUDENT_NAME>**  
-**<STUDENT_EMAIL>**  
-**<COURSE_NAME>** - <SEMESTER/YEAR>
+**<NIRMAL G>**  
+**<nirmalsharmila09@gmail.com>**  
