@@ -247,5 +247,5 @@ Contributions are welcome! To contribute:
 
 ## Author
 
-**<NIRMAL G>**  
+**<NIRMAL.G>**  
 **<nirmalsharmila09@gmail.com>**  
